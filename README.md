@@ -22,16 +22,16 @@
 
 2. Introduction to PostgreSQL and PostGIS [slides]
 
-3. Working with pgAdmin [workshop]
+3. Working with pgAdmin [[workshop](exercises/pgAdmin.md)]
 
   * Create a spatial database
   * Import shapefiles
   * Applying spatial queries
 
 
-4. Working with QGIS [workshop]
+4. Working with QGIS [[workshop](exercises/qgis.md)]
 
   * Connect PostGIS database with QGIS
   * Visualizing spatial queries with QGIS
-5. Working with CARTO [workshop]
+5. Working with CARTO [[workshop](exercises/carto.md)]
    * Visualizing spatial queries with CARTO
