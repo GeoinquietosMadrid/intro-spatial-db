@@ -18,9 +18,9 @@
 
 ## Index
 
-1. Introduction to GeoInquietos Madrid [slides]
+1. Introduction to GeoInquietos Madrid [[slides](https://docs.google.com/presentation/d/1h-Q5aLWjohNpPHOpsCDXg8Ocenc-YIzr08q6G1cKsgY/edit#slide=id.p)]
 
-2. Introduction to PostgreSQL and PostGIS [slides]
+2. Introduction to PostgreSQL and PostGIS [[slides](https://docs.google.com/presentation/d/16nIAplbGO-tYCvJrwBOezHyXbJqoJW1hMTGNENLerpY/edit#slide=id.p)]
 
 3. Working with pgAdmin [[workshop](exercises/pgAdmin.md)]
 
