@@ -13,7 +13,6 @@
 * [Creating areas of influence](#aoi)
 * [Getting the closest points](#closest)
 * [Intersecting](#intersect)
-* [Points within a certain distance](#within)
 * [Clipping](#clip)
 * [Traslating](#translate)
 * [Changing projections](#proj)
@@ -416,3 +415,5 @@ AND
 ```
 
 ![rectangles](../img/carto/rectangles.png)
+
+You can read more about CARTO custom spatial queries [here](https://carto.com/docs/tips-and-tricks/carto-functions/).
