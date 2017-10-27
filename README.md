@@ -25,8 +25,8 @@
 3. Working with pgAdmin [[workshop](exercises/pgAdmin.md)]
 
   * Create a spatial database
-  * Import shapefiles
-  * Applying spatial queries
+  * Import .csv data
+  * Create and query geometries
 
 
 4. Working with QGIS [[workshop](exercises/qgis.md)]
