@@ -37,6 +37,11 @@ Installing a plugin to QGIS by selecting using the PLugins manager:
 
 ## Spatial queries with QGIS using DBManager
 
+
+![](../img/qgis/DBManagermenu.png)
+
+![](../img/qgis/centroid.png)
+
 * Centroids: `SELECT ST_Centroid(geom) as geom FROM world_borders2`
 
 * Buffers filtered: `ST_Buffer(ST_Centroid(geom)::geography, 500000)::geometry as geom, admin FROM world_borders2 + SET filter to admin= 'Spain'`
