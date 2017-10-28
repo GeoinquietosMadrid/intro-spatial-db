@@ -1,6 +1,6 @@
 ## Quick introduction to QGIS
 
-QGIS is an open source GIS Desktop software that allow to create, visualize, analyze and publish geospatial information. It can be downloaded for free from [htier webpage](http://www.qgis.org/en/site/).
+QGIS is an open source GIS Desktop software that allow to create, visualize, analyze and publish geospatial information. It can be downloaded for free from [their webpage](http://www.qgis.org/en/site/).
 
 Im [this section](https://docs.qgis.org/2.0/en/docs/user_manual/introduction/qgis_gui.html) of the documentation of QGIS you can find detailed information about the different options of the QGIS UI.
 
