@@ -35,9 +35,17 @@ Installing a plugin to QGIS by selecting using the PLugins manager:
 
 ![](../img/qgis/lookingForplugin.png)
 
+
+### Importing data from QGIS to database
+
+Download `world_borders` dataset from [here](https://ramirocartodb.carto.com/api/v2/sql?q=SELECT+*+FROM+world_borders&format=shp&filename=world_borders).
+
+Open the DBManager and select the option "import layer" to import the layer to the database:
+
+![](../img/qgis/import_vector_DB.png)
+
 ## Spatial queries with QGIS using DBManager
 
-Download `world_borders` dataset from [here](https://ramirocartodb.carto.com/api/v2/sql?q=SELECT+*+FROM+world_borders&format=csv&filename=world_borders).
 
 ![](../img/qgis/DBManagermenu.png)
 
@@ -97,11 +105,6 @@ SELECT ST_Intersection(grid.geom, world_borders2.geom) as geom from grid, world_
 WHERE ST_Intersects(grid.geom, world_borders2.geom) AND world_borders2.admin = 'United States of America'
 ```
 
-### Importing data from QGIS to database
-
-Open the DBManager and select the option "import layer" to import the layer to the database:
-
-![](../img/qgis/import_vector_DB.png)
 
 
 
