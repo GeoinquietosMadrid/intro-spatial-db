@@ -10,6 +10,10 @@
 * Date & hour: October 28th 2017, 11-15h.
 * Location: Auditorio, Medialab-Prado Madrid.
 * Links: [meetup](https://www.meetup.com/es-ES/preview/Geoinquietos-MAD/events/243363198).
+* Tools:
+  * [PostgreSQL](https://www.postgresql.org/download/)
+  * [pgAdmin](https://www.pgadmin.org/download/)
+  * [QGIS](http://www.qgis.org/en/site/forusers/download.html)
 * Instructors:
   * Ramiro Aznar, CARTO.
   * Ernesto Martínez, CARTO.
