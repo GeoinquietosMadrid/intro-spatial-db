@@ -37,6 +37,7 @@ Installing a plugin to QGIS by selecting using the PLugins manager:
 
 ## Spatial queries with QGIS using DBManager
 
+Download `world_borders` dataset from [here](https://ramirocartodb.carto.com/api/v2/sql?q=SELECT+*+FROM+world_borders&format=csv&filename=world_borders).
 
 ![](../img/qgis/DBManagermenu.png)
 
